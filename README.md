@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development, ICT, Linux, movies,
 
-🌱 I’m currently learning Typescript, AI, deep learning
+🌱 I’m currently learning nodeJS, Typescript and Angular
 <!--- 
 💞️ I’m looking to collaborate on ...
 --->
