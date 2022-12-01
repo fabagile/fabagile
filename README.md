@@ -1,6 +1,6 @@
 👋 Hi, I’m @fabagile
 
-👀 I’m interested in web development, ICT, Linux, movies,
+👀 I’m interested in web technologies, ICT, Linux, movies;
 
 🌱 I’m currently learning nodeJS, Typescript and Angular
 <!--- 
